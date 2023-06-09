@@ -1,0 +1,234 @@
+
+.body{
+	margin: 0;
+	padding: 0;
+
+}
+
+.a{
+	
+	height: 100px;
+
+	
+}
+.b{
+	
+	width: 250px;
+	height: 100px;
+}
+.b img{
+	height: 100px;
+	width: 270px;
+}
+.d{
+
+	margin:15px 15px;
+	float: right;
+	
+
+}
+.d1 a{
+text-decoration: none;
+
+
+
+
+}
+.d1 li{
+
+
+padding: 10px 8.5px;
+list-style: none;
+float: left;
+
+}
+.c {
+	
+
+	float: right;
+	padding: 28px 50px 28px 80px; 
+
+}
+.c button{
+background-color:#800D34;
+color:#fff ;
+	height: 45px;
+	padding: 0 18px;
+	border-radius: 9px;
+}
+
+.e {
+	height: 720px;
+	
+	
+}
+.f{
+	width:100%;
+	
+	
+	height: 320px;
+}
+.g{
+	margin-top: 25px;
+	margin-right: 160px;
+
+	background-size: cover;
+    height: 280px;
+	background-image: url("amir/as.jpg");
+	width: 1000px;
+	float: right;
+}
+.h{
+	padding-top: 20px;
+	padding-left: 25px;
+     margin-left: 25px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+	width: 690px;
+	height: 220px;
+	background-color: #41358F;
+}
+
+.i{
+background-color: #E0DFE8;
+	margin-top: 20px;
+	
+	width:100%;
+	height: 640px;
+
+}
+
+.card{
+	
+	
+	width: 400px;
+	height: 580px;
+	
+}
+
+.card img{
+	width: 360px;
+	margin: 20px;
+	height: 280px;
+}
+.card a{
+	background-color: #800D34;
+}
+.card h1{
+	margin-left: 20px;
+	color: #800D34;
+}
+.as{
+	margin: 20px 250px  20px 20px;
+	float: right;
+	width: 400px;
+	height: 530;
+	
+}
+.aa{
+	width: 400px;
+	height: 530;
+	float: right;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+.a1{
+
+	width: 100%;
+	height: 250px;
+	
+}
+.a1 img{
+	margin-left: 105px;
+	margin-top: 30px;
+}
+.a1 h1{
+	margin-left: 380px;
+	padding-top: 20px;
+}
+.a2{
+	background-color:#DCDBE1;
+	padding-left: 200px;
+	padding-top: 30px;
+	width: 100%;
+	height: 180px;
+	
+	
+}
+.a2 h1{
+	color: #873E4F;
+	margin-left: 210px;
+}
+
+.a3{
+	width: 100%;
+	height: 550px;
+	
+	
+}
+.a4 img{
+	width: 330px;
+	height: 280px;
+}
+.a4 {
+	margin-top: 30px;
+	margin-right: 100px;
+	float: right;
+	
+	width: 335px;
+	height: 500px;
+}
+
+.a5 img{
+	width: 330px;
+	height: 280px;
+}
+.a5 {
+	
+	float: right;
+    margin-top: 30px;
+    margin-right: 15px;	
+	width: 335px;
+	height: 500px;
+}
+
+.a6 img{
+	width: 330px;
+	height: 280px;
+}
+.a6 { 
+	float: right;
+	  margin-top: 30px;
+    margin-right: 15px;	
+    width: 335px;
+	height: 500px;
+}
+.a3 a{
+
+   color: #800D34;
+	background-color: white;
+}
+.b1{
+	height: 450px;
+	background-color: lightgray;
+}
+.c2 {
+	padding-top:40px;
+	padding-left: 500px;
+	}
+
+.c1{
+
+	margin-top: 70px;
+	height: 100px;
+	
+}
+
+
+
+
+
+
+
